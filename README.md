@@ -1,5 +1,5 @@
-# Convert-ResxFile-To-NativeTraslation
-This Python based command tool helps to generate translation string files for iOS(.strings) and Android(string.xml) native projects from .resx file which is .Net resource file used in Xamarin/.Net applications. You may be spending tedious effort and time to extract the key and translation data meticulously to convert them into platform supported format. This tool will help to achieve the same job in short time with high accuracy results.
+# Convert .Net Resource File (.resx) to iOS/Android translation file (.strings / .xml)
+This Python based command tool helps to generate translation string files for iOS(.strings) and Android(string.xml) native projects from .resx file which is .Net resource file used in Xamarin/.Net applications. Usually we need to put tedious effort and time to extract the key and translation data meticulously to convert them into platform supported format. This tool will help to achieve the same job in short time with high accuracy.
 
 #### Sample .resx File
 ```xml
