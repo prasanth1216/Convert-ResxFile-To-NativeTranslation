@@ -1,2 +1,2 @@
 # Convert-ResxFile-To-NativeTraslation
-Python tool which helps to generate translation string files for iOS and Android Native projects from Resx file which is used Xamarin based applications.
+Python tool which helps to generate translation string files for iOS(.strings) and Android(string.xml) native projects from Resx file which is used Xamarin based applications. This tool will be great help if you're migrating from Xamarin based mobile projects to native application project where you need to create translation strings corresponding to the traslations used in the existing Xamarin based application.
